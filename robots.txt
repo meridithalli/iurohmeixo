@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://adealieghu.hhtpe.me/sitemap.xml
